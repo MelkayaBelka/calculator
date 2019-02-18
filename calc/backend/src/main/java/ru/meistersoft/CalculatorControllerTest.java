@@ -28,7 +28,5 @@ class CalculatorControllerTest {
     void sendCommand() {
     }
 
-    @Test
-    void deleteCalculator() {
-    }
+    
 }
